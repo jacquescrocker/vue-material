@@ -260,6 +260,7 @@
             this.menuContent.__vue__.highlighted === false ||
             this.menuContent.__vue__.highlighted < 1) {
 
+          this.$emit("additem", this.$refs.input.value)
           this.closeMenu();
 
           return false;
