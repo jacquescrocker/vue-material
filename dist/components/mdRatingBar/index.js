@@ -1,5 +1,5 @@
 /*!
-* Vue Material v0.7.6
+* Vue Material v0.7.7
 * Made with love by Marcos Moura
 * Released under the MIT License.
 */   
